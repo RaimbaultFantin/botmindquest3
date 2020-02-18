@@ -1,0 +1,18 @@
+{
+  "name": "messenger-bot",
+  "version": "1.0.0",
+  "description": "Messenger Bot for BotMind",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {},
+  "keywords": [],
+  "author": "Rf",
+  "dependencies": {
+    "body-parser": "*",
+    "dotenv": "^8.2.0",
+    "express": "*",
+    "node-fetch": "^2.6.0"
+  }
+}
